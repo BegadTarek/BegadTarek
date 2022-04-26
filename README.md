@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Begad Tarek</h1>
-<h3 align="center">A passionate web developer from Egypt</h3>
+<h3 align="center">A passionate web developer from Egypt, and an Ultimate Frisbee 🥏 coach</h3>
 
 - 🔭 I’m currently working on **Egyptian Ultimate Players' Association web app**
 
-- 🌱 I’m currently learning **Nuxt js**
+- 🌱 I’m interested in learning **Nuxt js**
 
 - 👯 I’m looking to collaborate on **Expensify**
 
