@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://begadtarek.netlify.app/](https://begadtarek.netlify.app/)
 
-- 💬 Ask me about **react, js, ULTIMATE FRISBEE**
+- 💬 Ask me about **react, javascript, ULTIMATE FRISBEE**
 
 - 📫 How to reach me **begad.t.mohamed@gmail.com**
 
